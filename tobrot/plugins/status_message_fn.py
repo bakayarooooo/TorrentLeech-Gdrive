@@ -87,7 +87,7 @@ async def status_message_f(client, message):
         f'<b>├  📀 ᴜsᴇᴅ sᴘᴀᴄᴇ : {used}</b>\n' \
         f'<b>├  💿 ғʀᴇᴇ sᴘᴀᴄᴇ : {free}</b>\n' \
         f'<b>│</b>\n' \
-        f'<b>╰───「 🚸 ᴀʀᴀᴛᴀ ʟᴇᴇᴄʜ 🚸 」</b>'
+        f'<b>╰───「 Torrent Untuk Kita Semua 」</b>'
     )
     # LOGGER.info(ms_g)
 
