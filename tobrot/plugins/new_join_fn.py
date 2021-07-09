@@ -25,6 +25,6 @@ async def help_message_f(client, message):
     # display the /help
 
     await message.reply_text(
-        """ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜɪs ɢʀᴏᴜᴘ ᴘʟᴇᴀsᴇ ᴜsᴇ <code>/get leechcommand</code> ғᴏʀ ɢᴜɪᴅᴇ ᴜsᴇ ᴍᴇ 😉""",
+        """ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜɪs ɢʀᴏᴜᴘ""",
         disable_web_page_preview=True,
     )
